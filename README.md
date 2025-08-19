@@ -1,4 +1,4 @@
-# Computer-Organization-MIPS
+# Computer Organization MIPS
 Fall 2024 Computer Organization (CS 35101) Classwork 
 >*Created, ran, and tested using Mars4_5.jar*
 
