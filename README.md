@@ -1,5 +1,5 @@
 # Computer Organization MIPS
-Fall 2024 Computer Organization (CS 35101) Classwork 
+Fall 2024 — CS 35101: Computer Organization — Class Assignments
 >*Created, ran, and tested using Mars4_5.jar*
 
 
@@ -12,16 +12,15 @@ Fall 2024 Computer Organization (CS 35101) Classwork
 - fibonacci
 
 
-## Getting started
-The software to run .asm can be found [here](https://github.com/dpetersanderson/MARS/)
-> [!CAUTION]
-> **These are, and should be used as a reference only!**
+## Getting Started
+To run `.asm` files, download the MARS MIPS simulator: [MARS on GitHub](https://github.com/dpetersanderson/MARS/)
+
+
+---
+> **REFERENCE ONLY**  
+> These files are finished assignments uploaded for reference. Do NOT copy and paste my work, but feel free to use it as a learning resource.
 ---
 
 
-## Contributing
-These are finished assignments uploaded to github as a reference. Do NOT copy and paste my work but feel free to use it as a reference.
-
-
-## Licensing
-The code in this project is licensed under MIT license.
+## License
+The code in this project is licensed under the MIT license.
